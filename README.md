@@ -1,7 +1,7 @@
 # GitHub Topics Scraper
-###Scrapes GitHub Topics (https://github.com/topics) page. Creates a CSV file for each of the top 30 topics, the CSV files contain the name, username, stars, and URLs for the top 25 repositories of the respective topic.
+### Scrapes GitHub Topics (https://github.com/topics) page. Creates a CSV file for each of the top 30 topics, the CSV files contain the name, username, stars, and URLs for the top 25 repositories of the respective topic.
 
-#Libraries:
+# Libraries:
 
 ## Requests
 Requests allows you to send HTTP/1.1 requests extremely easily.
